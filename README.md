@@ -10,4 +10,9 @@
    based on the average percentage. Results are displayed using DisplayResults, showing total marks, average percentage, and the assigned grade for the student. This project showcases fundamental Java concepts such 
    as arrays, methods, conditional statements, and user input handling.
 
-3) 
+3) ATM Simulator in Java :
+   This Java program simulates basic ATM functionalities using object-oriented principles. The BankAccount class manages account balance operations such as 
+   depositing and withdrawing funds, while the AtmMachine class handles user interactions and displays ATM options like withdraw, deposit, check balance, and exit. 
+   The program initializes with the user entering their initial account balance. It then allows continuous interaction where the user can choose from the displayed 
+   options to perform transactions. This project showcases Java concepts such as classes, objects, methods, constructors, user input handling using Scanner, and 
+   switch-case statements. It provides a practical example for learning basic banking operations and implementing them in a simulated environment.
